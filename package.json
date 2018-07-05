@@ -1,0 +1,15 @@
+{
+  "name": "youtube-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^20.2.0",
+    "youtube-mp3-downloader": "^0.5.3"
+  }
+}
